@@ -1,0 +1,34 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#recipes {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(32, 128, 69)
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.ingredients,
+.steps {
+    color: rgb(35, 0, 131);
+}
+
+.description p {
+    font-size: 12px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+strong {
+    background-color: rgb(250, 108, 52);
+    color: white;
+}
